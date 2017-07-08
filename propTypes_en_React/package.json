@@ -1,0 +1,25 @@
+{
+  "name": "curso_reactjs",
+  "version": "1.0.0",
+  "description": "Curso",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel index.js -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabianchoxD/ReactJsCurso.git"
+  },
+  "author": "Fabian S. Varon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabianchoxD/ReactJsCurso/issues"
+  },
+  "homepage": "https://github.com/fabianchoxD/ReactJsCurso#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1"
+  }
+}
