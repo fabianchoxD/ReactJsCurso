@@ -1,2 +1,2 @@
 # ReactJsCurso
-Iteraciones en JSX
+Props en React
