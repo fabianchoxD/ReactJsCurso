@@ -1,0 +1,22 @@
+.Alert {
+  padding: 1em;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  margin: 1em auto;
+  text-align: center;
+}
+
+.Alert--error {
+  border-color: red;
+  background-color: #FFCDD2;
+}
+
+.Alert--info {
+  border-color: blue;
+  background-color: #C5CAE9;
+}
+
+.Alert--success {
+  border-color: green;
+  background-color: #B2DFDB;
+}
